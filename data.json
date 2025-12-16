@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sorpa",
+      "description": "A clear broth carrying the warmth of the hand that served the cup to the first guest",
+      "price": 1800,
+      "category": "Appetizers"
+    },
+    {
+      "id": 2,
+      "name": "Kazakh Et",
+      "description": "A nomadic-inspired dish that combines meat and dough, often celebrated with dombra music.",
+      "price": 31000,
+      "category": "Main Courses"
+    },
+    {
+      "id": 3,
+      "name": "Chak-chak",
+      "description": "Golden drops of dough, glued together with honey and children's holiday laughter",
+      "price": 850,
+      "category": "Desserts"
+    }
+  ]
+}
