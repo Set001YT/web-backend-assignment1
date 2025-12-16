@@ -21,7 +21,7 @@ Each product contains:
 
 ### Step 1: Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Set001YT/web-backend-assignment1>
 cd restaurant-api
 ```
 
